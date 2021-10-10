@@ -1,7 +1,7 @@
-# Navigate back to [Main Page](https://sanserguz.github.io/main/) 
+## Navigate back to [Main Page](https://sanserguz.github.io/main/) 
 
 
-# Journal Articles
+## Journal Articles
 
 [Dynamic trade‐offs in granulocyte colony‐stimulating factor (G‐CSF) administration during chemotherapy](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1671)
 _System Dynamics Review 36 (4), 397-446_
@@ -9,7 +9,7 @@ _System Dynamics Review 36 (4), 397-446_
 Orkun İrsoy, **Şanser Güz**, Naz Beril Akan, Gönenç Yücel
 
 
-# Conference Papers
+## Conference Papers
 
 [What is the Stakeholder Effect on Clinical Guideline Formation Process: An Experimental Study](https://proceedings.systemdynamics.org/2021/papers/P1084.pdf)
 _39th International Conference of the System Dynamics Society_
