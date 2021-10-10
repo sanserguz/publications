@@ -1,6 +1,7 @@
-## Navigate back to [Main Page](https://sanserguz.github.io/main/) 
-
-
+**Navigate back to [Main Page](https://sanserguz.github.io/main/) **
+  
+  
+  
 ## Journal Articles
 
 [Dynamic trade‐offs in granulocyte colony‐stimulating factor (G‐CSF) administration during chemotherapy](https://onlinelibrary.wiley.com/doi/10.1002/sdr.1671)
