@@ -1,5 +1,5 @@
 
-__Navigate back to [Main Page](https://sanserguz.github.io/main/)
+_Navigate back to [Main Page](https://sanserguz.github.io/main/)
   
   
   
