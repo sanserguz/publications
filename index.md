@@ -1,7 +1,7 @@
 
 ###         Navigate back to [Main Page](https://sanserguz.github.io/main/)
   
-  
+  Full papers are availanle upon request.
   
 ## Journal Articles
 
