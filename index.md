@@ -27,7 +27,7 @@ _40th Congress on Operations Research / Industrial Engineering_
 - Presented in Parallel Session: System Dynamics Applications in Healthcare
 
 
-[Managing Chemotherapy-Induced Neutropenia using ExogenousGranulocyte Colony-Stimulating Factor](https://proceedings.systemdynamics.org/2020/papers/P1152.pdf)<br>
+[Managing Chemotherapy-Induced Neutropenia using Exogenous Granulocyte Colony-Stimulating Factor](https://proceedings.systemdynamics.org/2020/papers/P1152.pdf)<br>
 _38th International Conference of the System Dynamics Society_
 
 **Şanser Güz**, Orkun İrsoy, Naz Beril Akan, Gönenç Yücel
